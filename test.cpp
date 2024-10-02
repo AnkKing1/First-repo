@@ -24,5 +24,5 @@ bool func(string s)
 int main()
 {
     string s="NOON";
-    cout << " is the string s a " << func(s) << endl;
+    cout << " is the string s a palindrome " << func(s) << endl;
 }
